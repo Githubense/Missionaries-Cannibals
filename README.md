@@ -14,7 +14,7 @@ Safety Checks: The implementation includes safety checks to ensure that the numb
 
 ## Usage:
 Clone the repository.
-Load the Prolog file (cannibals_and_missionaries.pl) in your Prolog interpreter.
+Load the Prolog file (missionaries-cannibals.pl) in your Prolog interpreter.
 Execute the "?- solve." predicate to find and display the solution path for the problem.
 
 
